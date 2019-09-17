@@ -4,9 +4,9 @@ class Footer extends Component {
   render() {
     return (
       
-        <header className="App-header">
-          <h1>hello from the footer</h1>
-        </header>
+        
+          <footer>copyright © React Actors</footer>
+        
     );
   }
 }

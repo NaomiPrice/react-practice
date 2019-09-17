@@ -4,9 +4,11 @@ class Contact extends Component {
   render() {
     return (
       
-        <header className="App-header">
-          <h1>hello from the contact</h1>
-        </header>
+        <>
+          <h2>Contact</h2>
+          <p>Phone Number: 1-800-We-REACT</p>
+          <p>Email: info@ReactActors.com</p>
+        </>
     );
   }
 }

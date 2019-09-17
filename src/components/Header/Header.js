@@ -5,7 +5,7 @@ class Header extends Component {
     return (
       
         <header >
-          <h1>hello from the Header</h1>
+          <h1>React Actors</h1>
         </header>
     );
   }
